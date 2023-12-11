@@ -8,6 +8,7 @@
     'pyproj': ['pyi_rth_pyproj.py'],
     'pygraphviz': ['pyi_rth_pygraphviz.py'],
     'pythoncom': ['pyi_rth_pythoncom.py'],
+    'pypylon':['pyi_rth_pypylon.py'],
     'pyqtgraph': ['pyi_rth_pyqtgraph_multiprocess.py'],
     'pywintypes': ['pyi_rth_pywintypes.py'],
     'tensorflow': ['pyi_rth_tensorflow.py'],
